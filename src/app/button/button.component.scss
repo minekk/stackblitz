@@ -1,0 +1,18 @@
+div {
+    background-color: yellow;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+div:hover {
+    cursor: pointer;
+    background-color: #fafa8e;
+}
+.warning {
+    background-color: orange;
+    color:#222;
+}
+.info {
+    background-color: #26a197;
+    color:#000000;
+}
